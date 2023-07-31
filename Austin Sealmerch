@@ -1,0 +1,16 @@
+<formid=“myform”>
+<input type=“text” Id=“text” placeholder=“hi”
+</form>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Example</title>
+</head>
+<body>
+
+<!-- Button -->
+<button onclick="alert('Button clicked!')">Click Me</button>
+
+</body>
+</html>
